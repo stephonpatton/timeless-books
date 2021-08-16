@@ -1,0 +1,15 @@
+.sidebar-buttons {
+  display: grid;
+  height: 15px;
+  background-color: white;
+  border-color: white;
+  border-width: 0px;
+}
+
+.sidebar-icons {
+  height: 15px;
+}
+
+.sidebar-settings-logout-container {
+  display: grid;
+}
